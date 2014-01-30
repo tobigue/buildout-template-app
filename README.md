@@ -1,4 +1,4 @@
-This is a simple buildout template for supercell projects.
+This is a simple buildout template for tornado apps.
 
 One can use
 
